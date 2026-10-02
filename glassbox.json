@@ -1,0 +1,108 @@
+{
+  "slug": "idliclear",
+  "box": 126,
+  "date": "2026-10-16",
+  "title": "IdliClear",
+  "question": "How is an idli made?",
+  "hook": "Rice, urad dal, water and salt go into a vessel at night, and by morning the batter has doubled, with no yeast and no starter. Meet the wild bacteria that sour it and blow the bubbles, run your own batch on a warm night and a cold one, then watch steam set the foam into a sponge.",
+  "thumbText": "HOW AN IDLI IS MADE",
+  "field": "chemistry",
+  "minutes": 15,
+  "tags": [
+    "idli",
+    "fermentation",
+    "batter",
+    "urad dal",
+    "rice",
+    "lactic acid bacteria",
+    "Leuconostoc",
+    "steaming",
+    "wet grinder",
+    "food science",
+    "south indian food",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "Two grains and a lot of air",
+      "text": "An idli is rice and urad dal, usually two to four parts of rice for one of dal, with water and salt. The rice is parboiled idli rice, which grinds to a fine grit. The dal brings protein and a slippery gum. Cut a good idli open and about half of it is gas cells."
+    },
+    {
+      "title": "Stone on stone",
+      "text": "The grains are soaked for four to six hours and ground wet. In a wet grinder the drum and its granite floor turn while two roller stones spin in place. Urad is ground smooth and fluffy with air. Rice is stopped while it still feels like fine rava."
+    },
+    {
+      "title": "Nobody adds a starter",
+      "text": "The bacteria arrive on the grain. The main one, Leuconostoc mesenteroides, turns each glucose into one lactic acid, one ethanol and one carbon dioxide. The acid sours the batter and the gas raises it. Urad's gum and protein coat the bubbles and keep them in."
+    },
+    {
+      "title": "Warmth and time decide the rise",
+      "text": "At 25 to 35 °C the batter roughly doubles in 8 to 14 hours while its pH falls from about 6 to about 4.5. Below about 20 °C the bacteria crawl, which is why batter sits flat in a north Indian winter and cooks use the oven with its light on. Left too long, it turns sharp and sinks."
+    },
+    {
+      "title": "Ten minutes in steam",
+      "text": "Steam at 100 °C condenses on the cool batter and releases 2,257 kilojoules per kilogram. The bubbles swell, rice starch gelatinises at about 65 to 78 °C and the dal proteins set, so the wet foam becomes a soft sponge. A normal idli takes 10 to 12 minutes, and a thicker one much longer."
+    },
+    {
+      "title": "One idea, many idlis",
+      "text": "Pour the batter on a plate and it is thatte idli. Steam it thin on cloth and it is Ramasseri idli. Use semolina and curd and it is rava idli, raise it with toddy and it is sanna. All of them harden in the fridge as the cooked starch re-forms crystals, and soften again when re-steamed."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Idli rice",
+      "def": "Short, bold rice that has been parboiled: soaked and steamed in the husk. It grinds to a fine grit and makes a firm, white idli."
+    },
+    {
+      "term": "Urad dal (black gram)",
+      "def": "A small bean, Vigna mungo, with its black skin removed. About a quarter of it is protein, and its gum holds gas bubbles."
+    },
+    {
+      "term": "Wild ferment",
+      "def": "A fermentation started by microbes already on the food. Idli batter needs no starter."
+    },
+    {
+      "term": "Leuconostoc mesenteroides",
+      "def": "The lactic acid bacterium that leavens idli batter. It makes lactic acid, ethanol and carbon dioxide from sugar."
+    },
+    {
+      "term": "Heterofermentative",
+      "def": "Making more than one product from sugar. Homofermentative bacteria, like most in curd, make only lactic acid and no gas."
+    },
+    {
+      "term": "Arabinogalactan",
+      "def": "The gum of urad dal: a branched chain of sugars that thickens the batter and helps trap gas."
+    },
+    {
+      "term": "Latent heat",
+      "def": "Heat given out when steam condenses to water without cooling: 2,257 kJ per kg at 100 °C."
+    },
+    {
+      "term": "Gelatinisation",
+      "def": "Starch granules absorbing hot water and swelling into a gel. In rice it happens at about 65 to 78 °C."
+    },
+    {
+      "term": "Retrogradation",
+      "def": "Cooked starch slowly re-forming crystals as it cools. It is why idli, rice and bread turn firm, fastest in the fridge."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "idliclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

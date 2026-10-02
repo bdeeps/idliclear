@@ -1,0 +1,879 @@
+{
+  "title": "The history of the idli",
+  "tagline": "Eleven hundred years from a black gram cake in a Kannada story to a packet of live batter in the fridge.",
+  "intro": "The name idli is first written down in 920 CE, but the dish in those early texts had no rice, no overnight ferment and no steamer. Nobody knows for certain when or where the three came together, and historians still argue about it. What is certain is newer: in 1955 a Coimbatore machine took the labour out of grinding, and in 1965 scientists found the bacterium that makes the batter rise.",
+  "eras": [
+    {
+      "id": "roots",
+      "name": "Before the name",
+      "from": -2000,
+      "to": 900,
+      "color": "#c49bff",
+      "summary": "Black gram is grown across India and steam is used in southern kitchens. The evidence is thin, and it sits at the heart of a later argument."
+    },
+    {
+      "id": "texts",
+      "name": "Idli in words",
+      "from": 900,
+      "to": 1850,
+      "color": "#ffb547",
+      "summary": "Kannada and Sanskrit texts name iddalige and iddarika, made of black gram. The word reaches Tamil, and the dish travels with the people who make it."
+    },
+    {
+      "id": "science",
+      "name": "Finding the invisible workers",
+      "from": 1780,
+      "to": 2017,
+      "color": "#ff7a59",
+      "summary": "Chemists find lactic acid, microbiologists find the bacteria, and food scientists in Mysuru, New York and Kolkata measure what happens in the batter."
+    },
+    {
+      "id": "kitchen",
+      "name": "Machines and restaurants",
+      "from": 1920,
+      "to": 1980,
+      "color": "#5ce1a9",
+      "summary": "Tiffin rooms make idli a city breakfast, a wartime shortage creates rava idli, and Coimbatore's wet grinder ends the hour at the stone."
+    },
+    {
+      "id": "debate",
+      "name": "The origin debate",
+      "from": 1990,
+      "to": 2026,
+      "color": "#7aa2ff",
+      "summary": "K. T. Achaya suggests that fermenting and steaming came from Indonesia. Others disagree, and the question stays open."
+    },
+    {
+      "id": "today",
+      "name": "Packets, pride and orbit",
+      "from": 2000,
+      "to": 2026,
+      "color": "#8ef0ff",
+      "summary": "Fresh batter is sold chilled, the wet grinder wins a protected name, idli gets its own day and a place on a space menu."
+    }
+  ],
+  "events": [
+    {
+      "year": -2000,
+      "date": "c. 2000 BCE",
+      "era": "roots",
+      "art": "flame",
+      "title": "Steam in the south Indian kitchen",
+      "who": "Neolithic farmers",
+      "where": "Southern India",
+      "country": "India",
+      "text": "The archaeologist Dorian Fuller, who studies ancient crops and cooking, holds that steaming was already in use in Neolithic south India around 2000 BCE. Black gram, the bean behind urad dal, is native to South Asia and has been grown there since ancient times.",
+      "why": "It matters for the origin debate: if steaming is this old in the south, the method did not have to be imported later.",
+      "box": "steam",
+      "sources": [
+        0,
+        37
+      ]
+    },
+    {
+      "year": 640,
+      "date": "c. 630–645 CE",
+      "era": "roots",
+      "art": "compass",
+      "title": "A traveller who saw no steamers",
+      "who": "Xuanzang",
+      "where": "Northern and central India",
+      "country": "India",
+      "text": "The Chinese monk Xuanzang travelled through India in the seventh century and wrote about what he saw. The food historian K. T. Achaya later cited him as saying that India had no steaming vessel at the time. Others doubt that one traveller's remark can settle what every Indian kitchen did.",
+      "why": "This single report is one leg of the argument that steamed idli came from abroad.",
+      "box": "",
+      "sources": [
+        1,
+        0
+      ]
+    },
+    {
+      "year": 920,
+      "date": "920 CE",
+      "era": "texts",
+      "art": "scroll",
+      "key": true,
+      "title": "The first written idli",
+      "who": "Shivakotiacharya",
+      "where": "Karnataka",
+      "country": "India",
+      "text": "A Kannada work called the Vaddaradhane mentions a food named iddalige. It is the oldest known reference to idli by name. The dish it describes was made from black gram batter alone.",
+      "why": "The name is over a thousand years old, even if the recipe behind it has changed.",
+      "box": "batter",
+      "sources": [
+        0,
+        1
+      ]
+    },
+    {
+      "year": 1025,
+      "date": "c. 1025 CE",
+      "era": "texts",
+      "art": "quill",
+      "title": "Urad soaked in buttermilk",
+      "who": "Chavundaraya II",
+      "where": "Karnataka",
+      "country": "India",
+      "text": "The Kannada encyclopaedia Lokopakara gives a recipe. Black gram is soaked in buttermilk, ground to a fine paste and mixed with the clear water of curd and spices.",
+      "why": "The buttermilk shows that cooks already wanted sourness, but took it from curd and not from an overnight ferment.",
+      "box": "ferment",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1130,
+      "date": "c. 1130 CE",
+      "era": "texts",
+      "art": "inkpot",
+      "key": true,
+      "title": "A king writes down iddarika",
+      "who": "Someshvara III",
+      "where": "Kalyani, Western Chalukya kingdom (today Karnataka)",
+      "country": "India",
+      "text": "Someshvara III ruled from 1126 to 1138 and compiled the Manasollasa, a Sanskrit encyclopaedia of about a hundred subjects, cooking among them. It includes a recipe for iddarika. Like the earlier texts, it does not mention rice, a long fermentation or steaming.",
+      "why": "Three early texts agree on the name, and all three leave out the three things that define a modern idli.",
+      "box": "",
+      "sources": [
+        0,
+        6,
+        1
+      ]
+    },
+    {
+      "year": 1650,
+      "date": "17th century",
+      "era": "texts",
+      "art": "word",
+      "title": "Itali appears in Tamil",
+      "who": "The author of the Maccapuranam",
+      "where": "Tamil Nadu",
+      "country": "India",
+      "text": "The earliest surviving Tamil work to mention the dish, as itali, is the Maccapuranam, dated to the 17th century. By then the word had moved from Kannada into Tamil.",
+      "why": "It marks the dish spreading across the south, though the text does not tell us when rice and steaming joined the recipe.",
+      "box": "",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1780,
+      "date": "1780",
+      "era": "science",
+      "art": "flask",
+      "title": "The acid in sour things",
+      "who": "Carl Wilhelm Scheele",
+      "where": "Köping, Sweden",
+      "country": "Sweden",
+      "text": "Scheele, a Swedish chemist who ran a pharmacy, separated a new acid from sour milk. It was later named lactic acid. The same acid gives fermented idli batter its sour taste.",
+      "why": "Chemistry now had a name for what sourness is.",
+      "box": "ferment",
+      "sources": [
+        7,
+        8
+      ]
+    },
+    {
+      "year": 1820,
+      "date": "c. early 19th century, by local tradition",
+      "era": "texts",
+      "art": "road",
+      "title": "Weavers carry idli to Ramasseri",
+      "who": "Mudaliar weaver families",
+      "where": "Ramasseri, Palakkad, Kerala",
+      "country": "India",
+      "text": "According to the families who make it, Mudaliar weavers from Tamil Nadu settled in Ramasseri village about two hundred years ago. When weaving declined, the women began to sell idlis. Theirs are thin and flat, steamed on cloth stretched over clay pots.",
+      "why": "It shows how one batter turned into many local idlis as people moved.",
+      "box": "family",
+      "sources": [
+        32,
+        33
+      ]
+    },
+    {
+      "year": 1857,
+      "date": "1857",
+      "era": "science",
+      "art": "lens",
+      "title": "Souring is the work of living microbes",
+      "who": "Louis Pasteur",
+      "where": "Lille, France",
+      "country": "France",
+      "text": "Most chemists of the time thought fermentation was a purely chemical change. Pasteur showed that lactic acid is made by tiny living organisms as they grow.",
+      "why": "Every later study of idli batter starts from this idea: look for the microbe.",
+      "box": "ferment",
+      "sources": [
+        9,
+        7
+      ]
+    },
+    {
+      "year": 1878,
+      "date": "1878",
+      "era": "science",
+      "art": "cell",
+      "title": "Leuconostoc gets its name",
+      "who": "Lev Tsenkovskii and Philippe van Tieghem",
+      "where": "Kharkiv and Paris",
+      "country": "France",
+      "text": "A slime-making bacterium that troubled sugar factories was described by Tsenkovskii and placed in a new genus, Leuconostoc, by van Tieghem, both in 1878. It grows best at about 30 °C and makes lactic acid, ethanol and carbon dioxide from sugar.",
+      "why": "Nearly ninety years later the same species turned out to be what raises idli batter.",
+      "box": "ferment",
+      "sources": [
+        10
+      ]
+    },
+    {
+      "year": 1924,
+      "date": "1924",
+      "era": "kitchen",
+      "art": "building",
+      "title": "A coffee club in Bangalore",
+      "who": "Parampalli Yagnanarayana Maiya and his brothers",
+      "where": "Bengaluru, Karnataka",
+      "country": "India",
+      "text": "The Maiya brothers opened the Brahmin Coffee Club on Lalbagh Road. In 1960 it moved and took the name Mavalli Tiffin Rooms, MTR. It became one of the best-known places in the city for idli and coffee.",
+      "why": "Restaurants like this turned a home breakfast into a city habit.",
+      "box": "",
+      "sources": [
+        11
+      ]
+    },
+    {
+      "year": 1942,
+      "date": "c. 1939–1945",
+      "era": "kitchen",
+      "art": "plate",
+      "key": true,
+      "title": "Rava idli, born of a rice shortage",
+      "who": "The Maiya family of MTR",
+      "where": "Bengaluru, Karnataka",
+      "country": "India",
+      "text": "During the Second World War rice was scarce in south India. MTR says its cooks tried semolina in place of rice and made the first rava idli. It is mixed with curd and a tempering of mustard and cashew, and needs no overnight ferment.",
+      "why": "It is the best-known case of the idli idea being rebuilt with a different grain.",
+      "box": "family",
+      "sources": [
+        12,
+        11,
+        13
+      ]
+    },
+    {
+      "year": 1950,
+      "date": "21 October 1950",
+      "era": "science",
+      "art": "building",
+      "title": "A national food laboratory in Mysore",
+      "who": "Council of Scientific and Industrial Research",
+      "where": "Mysuru, Karnataka",
+      "country": "India",
+      "text": "The Central Food Technological Research Institute opened in the Cheluvamba palace, given by the Maharaja of Mysore. Much of the later science of idli batter, from urad gum to starter cultures, was done there.",
+      "why": "India now had a laboratory that took everyday foods seriously.",
+      "box": "",
+      "sources": [
+        14
+      ]
+    },
+    {
+      "year": 1955,
+      "date": "1955",
+      "era": "kitchen",
+      "art": "mixer",
+      "key": true,
+      "title": "The wet grinder is born",
+      "who": "P. Sabapathy",
+      "where": "Coimbatore, Tamil Nadu",
+      "country": "India",
+      "text": "For centuries batter was ground by hand in a stone mortar, which took time and strength. In 1955 P. Sabapathy of Coimbatore built a motor-driven wet grinder, and later took it to Chennai and Madurai.",
+      "why": "Grinding stopped being an hour of labour, and idli could become an everyday breakfast.",
+      "box": "grind",
+      "sources": [
+        15,
+        17
+      ]
+    },
+    {
+      "year": 1963,
+      "date": "1963",
+      "era": "kitchen",
+      "art": "motor",
+      "title": "Grinders go commercial",
+      "who": "P. B. Krishnamurthy",
+      "where": "Coimbatore, Tamil Nadu",
+      "country": "India",
+      "text": "Krishnamurthy started Lakshmi Grinders, which made the machine widely popular. Coimbatore already had foundries, motor makers and granite nearby, and a cluster of grinder workshops grew around them.",
+      "why": "A local invention became an industry.",
+      "box": "grind",
+      "sources": [
+        15
+      ]
+    },
+    {
+      "year": 1965,
+      "date": "March 1965",
+      "era": "science",
+      "art": "cell",
+      "key": true,
+      "title": "The microbe behind the rise is found",
+      "who": "S. K. Mukherjee, M. N. Albury, C. S. Pederson, A. G. van Veen and K. H. Steinkraus",
+      "where": "Geneva, New York",
+      "country": "United States",
+      "text": "A team at the New York State Agricultural Experiment Station followed idli batter through its ferment. They found that Leuconostoc mesenteroides did both the souring and the gas making, with Streptococcus faecalis and then Pediococcus becoming significant later. The microbes came with the grain.",
+      "why": "They called it the first record of a food leavened by a lactic acid bacterium alone.",
+      "box": "ferment",
+      "sources": [
+        18,
+        19
+      ]
+    },
+    {
+      "year": 1967,
+      "date": "1967",
+      "era": "science",
+      "art": "scales",
+      "title": "What fermenting changes, measured",
+      "who": "R. Rajalakshmi and K. Vanaja",
+      "where": "Vadodara, Gujarat",
+      "country": "India",
+      "text": "In the British Journal of Nutrition, the two scientists compared fermented and unfermented idli and khaman. Fermentation raised the thiamine and riboflavin content and lowered the phytate content of both foods.",
+      "why": "It put numbers on a change that cooks had only tasted. It is a measurement, not a health claim.",
+      "box": "ferment",
+      "sources": [
+        20
+      ]
+    },
+    {
+      "year": 1975,
+      "date": "1975",
+      "era": "kitchen",
+      "art": "gear",
+      "title": "The grinder learns to tilt",
+      "who": "R. Doraiswamy",
+      "where": "Coimbatore, Tamil Nadu",
+      "country": "India",
+      "text": "Early grinders were heavy floor machines, and the batter had to be scooped out by hand. Doraiswamy invented the tilting wet grinder, whose drum tips over to pour. L. G. Varadaraj later introduced the table-top grinder for home kitchens.",
+      "why": "The machine shrank from a shop floor to a kitchen counter.",
+      "box": "grind",
+      "sources": [
+        15
+      ]
+    },
+    {
+      "year": 1979,
+      "date": "1979",
+      "era": "science",
+      "art": "molecule",
+      "key": true,
+      "title": "Why urad holds the bubbles",
+      "who": "N. S. Susheelamma and M. V. L. Rao",
+      "where": "Mysuru, Karnataka",
+      "country": "India",
+      "text": "Working at CFTRI, Susheelamma and Rao studied what makes black gram batter so good at keeping gas. They traced it to two things: a surface-active globulin protein and a gum, an arabinogalactan. Their paper appeared in the Journal of Food Science.",
+      "why": "It explained why idli needs urad dal and not just any pulse.",
+      "box": "ferment",
+      "sources": [
+        21,
+        22
+      ]
+    },
+    {
+      "year": 1983,
+      "date": "1983",
+      "era": "science",
+      "art": "scroll",
+      "title": "Fermented foods get their handbook",
+      "who": "Keith H. Steinkraus",
+      "where": "Ithaca and Geneva, New York",
+      "country": "United States",
+      "text": "Steinkraus, a Cornell food scientist who had worked on the 1965 idli study, published the Handbook of Indigenous Fermented Foods. It was the first comprehensive book on the subject and gave idli and dosa a full scientific account.",
+      "why": "Idli took its place beside tempeh, miso and sourdough in the world's science of fermentation.",
+      "box": "",
+      "sources": [
+        23
+      ]
+    },
+    {
+      "year": 1989,
+      "date": "1989–1991",
+      "era": "science",
+      "art": "lens",
+      "title": "Yeasts join the story",
+      "who": "S. K. Soni and D. K. Sandhu",
+      "where": "Amritsar, Punjab",
+      "country": "India",
+      "text": "In a series of papers, Soni and Sandhu studied the microbes of idli and dosa batters. Along with the lactic bacteria they found yeasts, among them Saccharomyces, Debaryomyces and Trichosporon, and examined how they change the batter.",
+      "why": "The ferment turned out to be a small community, not one species.",
+      "box": "ferment",
+      "sources": [
+        24,
+        0
+      ]
+    },
+    {
+      "year": 1994,
+      "date": "1994",
+      "era": "debate",
+      "art": "earth",
+      "key": true,
+      "title": "Did idli come from Indonesia?",
+      "who": "K. T. Achaya",
+      "where": "Bengaluru, Karnataka",
+      "country": "India",
+      "text": "In Indian Food: A Historical Companion, the food scientist and historian K. T. Achaya noted that the early Indian recipes lack rice, fermenting and steaming. He suggested that the modern method may have arrived between 800 and 1200 CE from Indonesia, then ruled by Hindu kings and long used to fermented foods. It was offered as a suggestion, and it is still debated. Others answer that steaming is very old in south India, or point to Arab traders on the coast, a view press reports attribute to the historian Lizzie Collingham.",
+      "why": "It opened the most famous argument in Indian food history, and nobody has closed it.",
+      "box": "",
+      "sources": [
+        3,
+        4,
+        1,
+        2,
+        0
+      ]
+    },
+    {
+      "year": 2005,
+      "date": "December 2005",
+      "era": "today",
+      "art": "fridge",
+      "key": true,
+      "title": "Batter in a packet",
+      "who": "P. C. Musthafa and his cousins",
+      "where": "Bengaluru, Karnataka",
+      "country": "India",
+      "text": "Musthafa and four cousins began grinding batter in a tiny kitchen with two grinders, a mixer and a sealing machine, and supplied a few packets a day to about 20 shops under the name iD. By 2016 the company reported making around 50,000 kg of batter a day.",
+      "why": "Fresh, live batter became something a city home could buy, as long as it stayed cold.",
+      "box": "family",
+      "sources": [
+        27,
+        28
+      ]
+    },
+    {
+      "year": 2006,
+      "date": "March 2006",
+      "era": "today",
+      "art": "trophy",
+      "title": "Coimbatore Wet Grinder becomes a protected name",
+      "who": "Government of Tamil Nadu and the Geographical Indications Registry",
+      "where": "Coimbatore, Tamil Nadu",
+      "country": "India",
+      "text": "Tamil Nadu applied in 2005, and from March 2006 Coimbatore Wet Grinder has been a registered geographical indication. As of 2015 the city had more than 700 makers, producing about 75,000 of every 100,000 grinders made in India each month.",
+      "why": "A kitchen machine joined Darjeeling tea on the list of things tied to a place.",
+      "box": "grind",
+      "sources": [
+        16,
+        15,
+        17
+      ]
+    },
+    {
+      "year": 2010,
+      "date": "2010",
+      "era": "science",
+      "art": "flask",
+      "title": "Chosen cultures for packed batter",
+      "who": "J. Sridevi, P. M. Halami and S. V. N. Vijayendra",
+      "where": "Mysuru, Karnataka",
+      "country": "India",
+      "text": "CFTRI scientists tested selected lactic bacteria and yeasts as starters for idli batter and followed the batter in storage. Fresh batter began at pH 6.7, and counts of lactic bacteria and yeasts reached about a billion per gram and more.",
+      "why": "It was part of the effort to make packed batter rise the same way every time.",
+      "box": "rise",
+      "sources": [
+        25
+      ]
+    },
+    {
+      "year": 2011,
+      "date": "2011",
+      "era": "science",
+      "art": "thermometer",
+      "title": "The rise, measured hour by hour",
+      "who": "Debasree Ghosh and Parimal Chattopadhyay",
+      "where": "Kolkata, West Bengal",
+      "country": "India",
+      "text": "Two food technologists tracked batters of 2 : 1, 3 : 1 and 4 : 1 rice to dal for 22 hours at 20 to 26 °C. The batter grew to between 1.62 and 3.2 times its volume, the pH fell from 5.9 to about 4.2 and the acidity rose from 0.44 to 0.91 per cent.",
+      "why": "These are the numbers the simulator in this box is fitted to.",
+      "box": "rise",
+      "sources": [
+        26
+      ]
+    },
+    {
+      "year": 2015,
+      "date": "30 March 2015",
+      "era": "today",
+      "art": "share",
+      "title": "World Idli Day",
+      "who": "Eniyavan",
+      "where": "Chennai, Tamil Nadu",
+      "country": "India",
+      "text": "Eniyavan, a Chennai idli caterer, began marking 30 March as World Idli Day. It has been picked up by restaurants, newspapers and delivery apps every year since.",
+      "why": "A breakfast got its own day on the calendar.",
+      "box": "",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 2017,
+      "date": "2017",
+      "era": "science",
+      "art": "scales",
+      "title": "New food tables for India",
+      "who": "T. Longvah and colleagues, ICMR-National Institute of Nutrition",
+      "where": "Hyderabad, Telangana",
+      "country": "India",
+      "text": "The National Institute of Nutrition published the Indian Food Composition Tables 2017, with 151 components measured in 528 key foods sampled across the country, parboiled rice and black gram dal among them.",
+      "why": "It is the standard source for what Indian grains hold.",
+      "box": "batter",
+      "sources": [
+        29
+      ]
+    },
+    {
+      "year": 2020,
+      "date": "January 2020",
+      "era": "today",
+      "art": "rocket",
+      "title": "Idli on a space menu",
+      "who": "Defence Food Research Laboratory, DRDO",
+      "where": "Mysuru, Karnataka",
+      "country": "India",
+      "text": "For the Gaganyaan crewed mission, the Defence Food Research Laboratory prepared a menu of Indian dishes adapted from its packed rations. Reports listed idli among them, with upma, pulao and halwa.",
+      "why": "The thousand-year-old dish was packed for orbit.",
+      "box": "",
+      "sources": [
+        30,
+        31
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "First written mention of idli (as iddalige)",
+      "value": "920 CE",
+      "who": "Shivakotiacharya's Vaddaradhane, Karnataka"
+    },
+    {
+      "label": "First surviving recipe in Sanskrit (iddarika)",
+      "value": "c. 1130 CE",
+      "who": "Someshvara III's Manasollasa"
+    },
+    {
+      "label": "Earliest surviving Tamil mention (itali)",
+      "value": "17th century",
+      "who": "Maccapuranam"
+    },
+    {
+      "label": "Motor-driven wet grinder",
+      "value": "1955",
+      "who": "P. Sabapathy, Coimbatore"
+    },
+    {
+      "label": "Tilting wet grinder",
+      "value": "1975",
+      "who": "R. Doraiswamy, Coimbatore"
+    },
+    {
+      "label": "Microbe of the idli ferment identified",
+      "value": "1965",
+      "who": "Mukherjee and colleagues, New York State Agricultural Experiment Station"
+    },
+    {
+      "label": "Urad's gum and protein shown to hold the gas",
+      "value": "1979",
+      "who": "Susheelamma and Rao, CFTRI Mysuru"
+    },
+    {
+      "label": "World Idli Day",
+      "value": "30 March 2015",
+      "who": "Eniyavan, Chennai"
+    }
+  ],
+  "people": [
+    {
+      "name": "Shivakotiacharya",
+      "life": "10th century",
+      "role": "Jain writer in Kannada",
+      "from": "Karnataka, India",
+      "note": "His Vaddaradhane of 920 CE holds the oldest known mention of idli, as iddalige."
+    },
+    {
+      "name": "Someshvara III",
+      "life": "reigned 1126 – 1138",
+      "role": "Western Chalukya king and encyclopaedist",
+      "from": "Kalyani, today Karnataka, India",
+      "note": "Compiled the Manasollasa, whose food chapters include a recipe for iddarika."
+    },
+    {
+      "name": "K. T. Achaya",
+      "life": "1923 – 2002",
+      "role": "Oil chemist, food scientist and food historian",
+      "from": "India",
+      "note": "Wrote the standard histories of Indian food and proposed that idli's fermenting and steaming came from Indonesia."
+    },
+    {
+      "name": "P. Sabapathy",
+      "life": "20th century",
+      "role": "Inventor",
+      "from": "Coimbatore, India",
+      "note": "Built the motor-driven wet grinder in 1955."
+    },
+    {
+      "name": "P. B. Krishnamurthy",
+      "life": "20th century",
+      "role": "Manufacturer",
+      "from": "Coimbatore, India",
+      "note": "Started Lakshmi Grinders in 1963 and made the machine a commercial success."
+    },
+    {
+      "name": "R. Doraiswamy",
+      "life": "20th century",
+      "role": "Inventor",
+      "from": "Coimbatore, India",
+      "note": "Invented the tilting wet grinder in 1975."
+    },
+    {
+      "name": "S. K. Mukherjee",
+      "life": "20th century",
+      "role": "Microbiologist",
+      "from": "New York State Agricultural Experiment Station, United States",
+      "note": "First author of the 1965 paper that named Leuconostoc mesenteroides as the leavener of idli batter."
+    },
+    {
+      "name": "Keith H. Steinkraus",
+      "life": "1918 – 2007",
+      "role": "Food scientist at Cornell University",
+      "from": "United States",
+      "note": "Co-author of the 1965 idli study and author of the 1983 Handbook of Indigenous Fermented Foods."
+    },
+    {
+      "name": "R. Rajalakshmi",
+      "life": "20th century",
+      "role": "Biochemist and nutrition scientist",
+      "from": "Vadodara, India",
+      "note": "With K. Vanaja, measured the rise in thiamine and riboflavin and the fall in phytate when idli batter ferments."
+    },
+    {
+      "name": "N. S. Susheelamma",
+      "life": "20th century",
+      "role": "Food scientist at CFTRI",
+      "from": "Mysuru, India",
+      "note": "With M. V. L. Rao, showed that urad's arabinogalactan and globulin give idli its sponge."
+    },
+    {
+      "name": "P. C. Musthafa",
+      "life": "living",
+      "role": "Founder of iD Fresh Food",
+      "from": "Wayanad, Kerala, India",
+      "note": "Began selling packets of fresh idli and dosa batter in Bengaluru in 2005."
+    },
+    {
+      "name": "Eniyavan",
+      "life": "living",
+      "role": "Idli caterer",
+      "from": "Chennai, India",
+      "note": "Started World Idli Day on 30 March 2015."
+    }
+  ],
+  "series": [],
+  "facts": [
+    "The oldest idli recipes, from 920 to 1130 CE, use black gram only. They mention no rice, no overnight ferment and no steaming.",
+    "Idli batter is raised by a bacterium, not a yeast. In 1965 scientists called it the first known food leavened by a lactic acid bacterium alone.",
+    "Nobody adds the bacteria. They arrive on the grains, mostly the urad dal.",
+    "As of 2015, about three of every four wet grinders made in India each month came from Coimbatore.",
+    "Rava idli is traced by MTR of Bengaluru to a rice shortage during the Second World War."
+  ],
+  "sources": [
+    {
+      "title": "Idli",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Idli"
+    },
+    {
+      "title": "Where Did the Idli Come From?",
+      "publisher": "Live History India",
+      "url": "https://livehistoryindia.com/story/history-in-a-dish/where-did-the-idli-come-from"
+    },
+    {
+      "title": "Is the south Indian idli from Indonesia, Gujarat or the Arab world?",
+      "publisher": "Gulf News",
+      "url": "https://gulfnews.com/amp/story/food%2Fis-the-south-indian-idli-from-indonesia-gujarat-or-the-arab-world-1.1643637068725"
+    },
+    {
+      "title": "K. T. Achaya",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/K._T._Achaya"
+    },
+    {
+      "title": "Indian Food: A Historical Companion (K. T. Achaya, Oxford University Press, 1994): catalogue record",
+      "publisher": "Wellcome Collection",
+      "url": "https://wellcomecollection.org/works/a6y6cmej"
+    },
+    {
+      "title": "Setting the Table: K. T. Achaya's pioneering scholarship on Indian food",
+      "publisher": "The Caravan",
+      "url": "https://caravanmagazine.in/reviews-essays/kt-achaya-pioneering-scholarship-indian-food"
+    },
+    {
+      "title": "Someshvara III",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Someshvara_III"
+    },
+    {
+      "title": "Lactic acid",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lactic_acid"
+    },
+    {
+      "title": "Carl Wilhelm Scheele",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Carl_Wilhelm_Scheele"
+    },
+    {
+      "title": "Lactic acid fermentation",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lactic_acid_fermentation"
+    },
+    {
+      "title": "Leuconostoc mesenteroides",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Leuconostoc_mesenteroides"
+    },
+    {
+      "title": "Mavalli Tiffin Rooms",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mavalli_Tiffin_Rooms"
+    },
+    {
+      "title": "Rava idli",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rava_idli"
+    },
+    {
+      "title": "The origin story of rava idli at MTR, Bengaluru",
+      "publisher": "The Better India",
+      "url": "https://thebetterindia.com/food/food-history/origin-invention-story-rava-idli-mtr-bengaluru-10649642"
+    },
+    {
+      "title": "Central Food Technological Research Institute",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Central_Food_Technological_Research_Institute"
+    },
+    {
+      "title": "Coimbatore Wet Grinder",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Coimbatore_Wet_Grinder"
+    },
+    {
+      "title": "Wet grinder",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wet_grinder"
+    },
+    {
+      "title": "Coimbatore Wet Grinder: geographical indication case study",
+      "publisher": "oriGIn (Organization for an International Geographical Indications Network)",
+      "url": "https://www.origin-gi.com/wp-content/uploads/2017/01/19-coimbatore-wet-grinder.pdf"
+    },
+    {
+      "title": "Role of Leuconostoc mesenteroides in leavening the batter of idli, a fermented food of India (Mukherjee, Albury, Pederson, van Veen and Steinkraus, Applied Microbiology 13: 227, 1965)",
+      "publisher": "PubMed, U.S. National Library of Medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/14325884/"
+    },
+    {
+      "title": "Role of Leuconostoc mesenteroides in leavening the batter of idli: full text",
+      "publisher": "PubMed Central",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1058226/"
+    },
+    {
+      "title": "Chemical and biological evaluation of the effects of fermentation on the nutritive value of foods prepared from rice and grams (Rajalakshmi and Vanaja, British Journal of Nutrition 21: 467, 1967)",
+      "publisher": "Cambridge University Press",
+      "url": "https://www.cambridge.org/core/journals/british-journal-of-nutrition/article/chemical-and-biological-evaluation-of-the-effects-of-fermentation-on-the-nutritive-value-of-foods-prepared-from-rice-and-grams/7F7DF3CF1C806B5B3A6411B6E6F5F530"
+    },
+    {
+      "title": "Publications of N. S. Susheelamma, including the 1979 papers on the arabinogalactan of black gram",
+      "publisher": "CSIR-CFTRI institutional repository",
+      "url": "https://ir.cftri.res.in/view/creators/Susheelamma=3AN=2E_S=2E=3A=3A.html"
+    },
+    {
+      "title": "Fermented products based on rice",
+      "publisher": "Tamil Nadu Agricultural University, Agritech Portal",
+      "url": "https://agritech.tnau.ac.in/postharvest/pht_cereal_rice_value_addition_fermnt_prdct.html"
+    },
+    {
+      "title": "Keith H. Steinkraus",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Keith_H._Steinkraus"
+    },
+    {
+      "title": "Sanjeev Kumar Soni: publications, including the 1989 to 1991 papers on idli and dosa fermentation",
+      "publisher": "Vidwan, INFLIBNET",
+      "url": "https://vidwan.inflibnet.ac.in/profile/59226"
+    },
+    {
+      "title": "Selection of starter cultures for idli batter fermentation and their effect on quality of idlis (Sridevi, Halami and Vijayendra, Journal of Food Science and Technology 47: 557, 2010)",
+      "publisher": "PubMed Central",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3551100"
+    },
+    {
+      "title": "Preparation of idli batter, its properties and nutritional improvement during fermentation (Ghosh and Chattopadhyay, Journal of Food Science and Technology 48: 610, 2011)",
+      "publisher": "PubMed Central",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3551127"
+    },
+    {
+      "title": "ID Fresh Food",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/ID_Fresh_Food"
+    },
+    {
+      "title": "How iD Fresh grew from a 50 sq ft store into a Rs 182 crore brand",
+      "publisher": "YourStory",
+      "url": "https://yourstory.com/2018/09/id-fresh-grew-50-sq-ft-store-rs-182-crore-brand/"
+    },
+    {
+      "title": "Indian Food Composition Tables",
+      "publisher": "Vikaspedia, Government of India",
+      "url": "https://en.vikaspedia.in/health/nutrition/nutritive-value-of-foods/indian-food-composition-tables"
+    },
+    {
+      "title": "Gaganyaan astronauts will feast on Indian food, reconstituted for space conditions",
+      "publisher": "The Week",
+      "url": "https://www.theweek.in/news/sci-tech/2020/01/06/indian-food-in-space-drdos-menu-for-gaganyaan-astronauts.amp.html"
+    },
+    {
+      "title": "Biryani, upma and halwa: Gaganyaan menu made by DRDO lab",
+      "publisher": "ThePrint",
+      "url": "https://theprint.in/science/biryani-upma-and-halwa-gaganyaan-menu-made-by-drdo-lab-will-offer-touch-of-home-in-space/601301/"
+    },
+    {
+      "title": "A fluffy slice of heaven: the quaint story of Kerala's Ramassery idlis",
+      "publisher": "The News Minute",
+      "url": "https://www.thenewsminute.com/article/fluffy-slice-heaven-quaint-story-keralas-ramassery-idlis-58321"
+    },
+    {
+      "title": "The Revival of an Under-the-Radar Idli from Kerala",
+      "publisher": "Saveur",
+      "url": "https://www.saveur.com/food/ramassery-idli-kerala-india"
+    },
+    {
+      "title": "From plate-sized thatte to button, chiblu and moode: Karnataka idlis",
+      "publisher": "The News Minute",
+      "url": "https://www.thenewsminute.com/karnataka/plate-sized-thatte-button-chiblu-and-moode-karnataka-idlis-you-shouldnt-miss-176428"
+    },
+    {
+      "title": "Is this India's most unusual idli? The Kanchi idli",
+      "publisher": "Goya",
+      "url": "https://www.goya.in/blog/this-world-idli-day-we-celebrate-the-famed-kanchi-idli"
+    },
+    {
+      "title": "Sanna (dish)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sanna_(dish)"
+    },
+    {
+      "title": "Vigna mungo (black gram)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vigna_mungo"
+    }
+  ]
+}
